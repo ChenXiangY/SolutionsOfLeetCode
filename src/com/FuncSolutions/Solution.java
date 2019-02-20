@@ -1,4 +1,7 @@
-package com.test;
+package src.com.FuncSolutions;
+
+import src.com.SharedClass.ListNode;
+import src.com.SharedClass.TreeNode;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -18,6 +21,8 @@ public class Solution {
         int[] prices = new int[]{2, 1, 2, 0, 1};
         System.out.println(solution.maxProfit2(prices));
     }
+
+
 
     /**
      * 125题,验证回文串
@@ -181,7 +186,7 @@ public class Solution {
      * 108题,这题不会写,抄的.
      *
      * @param nums
-     * @return com.test.TreeNode
+     * @return TreeNode
      * @author Chen Xiangyu
      * @date 2019/2/19 12:05
      */
@@ -374,7 +379,7 @@ public class Solution {
      * 83题,链表相关的题目,总感觉以前做过啊?
      *
      * @param head
-     * @return com.test.ListNode
+     * @return ListNode
      * @author Chen Xiangyu
      * @date 2019/2/11 11:08
      */
@@ -752,7 +757,7 @@ public class Solution {
      *
      * @param l1
      * @param l2
-     * @return com.test.ListNode
+     * @return ListNode
      * @author Chen Xiangyu
      * @date 2019/2/19 11:57
      */
@@ -1127,7 +1132,7 @@ public class Solution {
      * LeetCode的辅助方法,可以将字符串转换为Tree;
      *
      * @param input
-     * @return com.test.TreeNode
+     * @return TreeNode
      * @author Chen Xiangyu
      * @date 2019/2/18 23:37
      */

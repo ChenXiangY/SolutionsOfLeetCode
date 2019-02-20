@@ -1,4 +1,4 @@
-package com.test;
+package src.com.ProfileAlgorithm;
 
 /**
  * 自己学习算法的查找的类

@@ -1,4 +1,4 @@
-package com.test;
+package src.com.ProfileAlgorithm;
 
 
 import edu.princeton.cs.algs4.Graph;

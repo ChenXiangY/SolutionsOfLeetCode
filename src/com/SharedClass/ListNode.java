@@ -1,4 +1,4 @@
-package com.test;
+package src.com.SharedClass;
 
 /**
  * @author Chen Xiangyu
@@ -7,8 +7,8 @@ package com.test;
  * @date 2019/2/6
  */
 public class ListNode {
-    int val;
-    ListNode next;
+    public int val;
+    public ListNode next;
 
     public ListNode(int val) {
         this.val = val;
