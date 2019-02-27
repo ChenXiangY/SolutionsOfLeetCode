@@ -1,4 +1,4 @@
-package src.com.ProfileAlgorithm;
+package com.ProfileAlgorithm;
 
 /**
  * @author Chen Xiangyu
